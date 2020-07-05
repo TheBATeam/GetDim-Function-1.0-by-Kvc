@@ -1,0 +1,16 @@
+
+ This function Simply Returns the current Dimensions of cmd console,
+ in Two variables provided.
+
+ Syntax: Call GetDim [Rows] [Columns]
+ Syntax: call GetDim [help | /? | -h | -help]
+ Syntax: call GetDim ver
+
+ Where:-
+ Rows		= The Variable to save 'No. of Rows	[Y]'
+ Columns	= The Variable to save 'No. of Columns	[X]'
+ Help		= Shows this screen.
+ ver		= Version of the function.
+
+ Visit www.thebateam.org for more...
+ #Kvc with #TheBATeam
